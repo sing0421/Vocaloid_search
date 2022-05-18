@@ -15,7 +15,6 @@
 
     let gs = window.getSelection();
     let selected_text = gs.toString();
-    let selected_text_new = selected_text.replace(' ','+')
 
     if(gs == "" ) {
         return;
