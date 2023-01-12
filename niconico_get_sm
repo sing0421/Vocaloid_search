@@ -19,6 +19,7 @@
     if(sm == "" ) {
         return;
     }
-
+    
     navigator.clipboard.writeText(sm);
+    
 })();
