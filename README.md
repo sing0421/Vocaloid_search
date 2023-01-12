@@ -3,3 +3,5 @@
 https://w.atwiki.jp/hmiku/
 
 選択の後，Tampermonkey → Vocaloid_wiki で検索をかける
+
+macth : 完全一致での検索
