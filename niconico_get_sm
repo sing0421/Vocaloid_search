@@ -21,8 +21,4 @@
     }
 
     navigator.clipboard.writeText(sm);
-    
-    copyLink.on('success', function () {
-        alert('URLをコピーしました。');
-    })
 })();
