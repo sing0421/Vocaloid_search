@@ -2,7 +2,7 @@
 // @name         niconico_get_sm
 // @namespace    
 // @version      1.0
-// @description  We get sm_number of video in niconico.
+// @description  We get the number of video in niconico.
 // @author       sing0421
 // @match        http*://*/*
 // @grant        none
@@ -14,7 +14,7 @@
     'use strict';
 
     var url = location.href.split("/");  
-    var sm = url[url.length -1];
+    var sm = url[url.length -2];
 
     if(sm == "" ) {
         return;
