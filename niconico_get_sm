@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         niconico_get_sm
+// @namespace    
 // @version      1.0
 // @description  We get sm_number of video in niconico.
 // @author       sing0421
 // @match        http*://*/*
 // @grant        none
+// @updateURL	 
 // @run-at       context-menu
 // ==/UserScript==
 
