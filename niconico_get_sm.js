@@ -1,14 +1,16 @@
 // ==UserScript==
 // @name         niconico_get_sm
-// @namespace    
-// @version      1.1
-// @description  We get sm_number of video in niconico.
+// @namespace    http://tampermonkey.net/
+// @version      1.0.1
+// @description  We get sm_number of video in niconico
 // @author       sing0421
-// @match        http*://*/*
+// @match        https://www.nicovideo.jp/
 // @grant        none
-// @updateURL	 
+// @updateURL	 https://github.com/sing0421/Vocaloid_search/raw/master/niconico_get_sm.js
 // @run-at       context-menu
 // ==/UserScript==
+
+// Copyright 2022 sing0421
 
 (function() {
     'use strict';
