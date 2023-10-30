@@ -4,7 +4,7 @@
 // @version      1.0.1
 // @description  Get info of vocaloid music
 // @author       sing0421
-// @match        https://w.atwiki.jp/hmiku/
+// @match        https://w.atwiki.jp/hmiku/*
 // @grant        none
 // @run-at       context-menu
 // ==/UserScript==
