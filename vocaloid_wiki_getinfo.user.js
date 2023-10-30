@@ -1,12 +1,11 @@
 // ==UserScript==
-// @name         niconico_get_info
+// @name         niconico_get_info_tool
 // @namespace    https://github.com/sing0421
 // @version      1.0.1
 // @description  Get info of vocaloid music
 // @author       sing0421
 // @match        https://w.atwiki.jp/hmiku/*
 // @grant        none
-// @run-at       context-menu
 // ==/UserScript==
 
 (function() {
