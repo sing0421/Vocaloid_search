@@ -8,3 +8,5 @@ https://w.atwiki.jp/hmiku/
 macth : 完全一致での検索
 
 niconico_get_sm : sm番号を抽出してコピー
+
+vocaloid_wiki_getinfo : 初音ミクwikiのデータ抽出(調整中)
